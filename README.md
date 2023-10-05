@@ -1,2 +1,2 @@
 # Ebac_Data_Scientist
-Post requested activities
+A session dedicated to posting activities from the Introduction to Python module in ebac course.
